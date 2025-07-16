@@ -1,0 +1,24 @@
+📊 Input Features:
+  prev_fire_point          : 1.0000000
+  today_point_count        : 0.0000000
+  prev_frp_mean            : 0.5200000
+  today_frp_mean           : 0.0000000
+  NDVI                     : 0.3214452
+  EVI                      : 0.6012555
+  wind_dir                 : 190.0000000
+  wind_speed               : 2.0999999
+  stn_id                   : 129.0000000
+  TA_AVG                   : 8.1000004
+  TA_MAX                   : 14.1999998
+  TA_MIN                   : 1317.0000000
+  HM_AVG                   : 58.0999985
+  RN_DAY                   : -9.0000000
+  altitude                 : 25.2500000
+Input min/max: 0.0 0.627451
+Pred min/max: 0.00031907458 0.0071903598
+True min/max: 0.0 0.0
+input_img shape: (128, 128)
+pred_mask shape: (128, 128)
+true_mask shape: (128, 128)
+
+이전에 화재가 있었지만 오늘에는 없는 것을 잘 예측. 풍속 낮은 것 등으로 예측
