@@ -42,14 +42,14 @@
 ## 결과 시각화
 
 
-<img src="result/0715_2.png">
-<img src="result/0715_6.png">
+<img src="result/0715_5_2.png">
+<img src="result/0715_5_6.png">
 
 위 두 결과에서 모델이 전날 산불이 발생한 여러 지점 중에서, 한 곳에만 산불이 여전히 남아있는 것을 잘 예측하는 것을 관찰할 수 있습니다.
 
 
-<img src="result/0715_3.png">
-<img src="result/0715_5.png">
+<img src="result/0715_5_3.png">
+<img src="result/0715_5_5.png">
 
 위 두 결과에서 모델이 전날 산불이 발생하였지만, 기타 데이터를 고려하여 다음날 산불이 발생하지 않는 것을 잘 예측하는 것을 볼 수 있습니다.
 
